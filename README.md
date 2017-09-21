@@ -23,7 +23,7 @@ When you're ready to test your webpage in cloud 9, you can click on the preview 
 
 ## Elements To Try
 
-###### These elements are listed in order of increasing complexity. You may be able to figure out the first two without documentation, but you'll want to turn to w3schools for some guidance as you go further down the list.
+###### These elements are listed in order of increasing complexity. Scroll down for tips.
 
 * h1 - h6 elements
 * Paragraphs (p-tags)
@@ -33,7 +33,7 @@ When you're ready to test your webpage in cloud 9, you can click on the preview 
 * Unordered lists
 * Sections, divs
 * Tables
-* Forms (including the following input types)
+* Forms, including input types like...
     * text
     * password
     * number
